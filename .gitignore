@@ -1,0 +1,5 @@
+.idea
+.hypothesis
+.mypy_cache
+__pycache__
+*.mermaid
